@@ -18,4 +18,4 @@ EXEMPLE :
 
 ![Image description](PacmanCover.jpg)
 
-![Image description](SnakeCover.jpg)
+![Image description](SnakeCover.png)
