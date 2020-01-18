@@ -15,3 +15,7 @@ KEY MAPPING (when program launched) :
 EXEMPLE :
 
 > ./arcade ./lib_arcade_sfml.so
+
+![Image description](PacmanCover.jpg)
+
+![Image description](SnakeCover.jpg)
