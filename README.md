@@ -6,7 +6,9 @@ PREREQUISITE :
     SFML, ncurses and SDL needs to be installed.
 
 USAGE :
-
+    
+    Make
+    
     ./arcade [./library.so]
 
 KEY MAPPING (when program launched) :
